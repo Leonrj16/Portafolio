@@ -1,0 +1,20 @@
+:root{
+  --color-primary:  #444cf7;
+  --color-title: #000;
+  --align-title: left;
+  --padding-container: 100px 0;
+  --width-container: 90%;
+  --max-width-container: 1200px; 
+  --text-btn:  #444cf7;
+  --color-btn:  #f744a6;
+  --padding-btn: 10px 15px;
+  --height-shape:18em;
+}
+body{
+   font-family: 'Inter', sans-serif;
+   background-color:#c98383;
+   opacity: 1;
+   background-image:  radial-gradient(#7a0808 0.7000000000000001px, transparent 0.7000000000000000001);
+   background-size: 28px 28px;
+   background-position: 00,14px 14px;
+ }
